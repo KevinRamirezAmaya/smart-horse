@@ -26,3 +26,4 @@ Flujo básico de uso:
 
 
 Ver `docs/Smart-Horse-Heuristics.pdf` para el desarrollo y la discusión de la heurística implementada.
+link Repositorio: https://github.com/KevinRamirezAmaya/smart-horse.git
